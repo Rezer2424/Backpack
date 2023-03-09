@@ -1,0 +1,15 @@
+D:\RiderSolution\Backpack\Backpack\bin\Debug\net6.0\Backpack.exe
+D:\RiderSolution\Backpack\Backpack\bin\Debug\net6.0\Backpack.deps.json
+D:\RiderSolution\Backpack\Backpack\bin\Debug\net6.0\Backpack.runtimeconfig.json
+D:\RiderSolution\Backpack\Backpack\bin\Debug\net6.0\Backpack.dll
+D:\RiderSolution\Backpack\Backpack\bin\Debug\net6.0\ref\Backpack.dll
+D:\RiderSolution\Backpack\Backpack\bin\Debug\net6.0\Backpack.pdb
+D:\RiderSolution\Backpack\Backpack\obj\Debug\net6.0\Backpack.csproj.AssemblyReference.cache
+D:\RiderSolution\Backpack\Backpack\obj\Debug\net6.0\Backpack.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderSolution\Backpack\Backpack\obj\Debug\net6.0\Backpack.AssemblyInfoInputs.cache
+D:\RiderSolution\Backpack\Backpack\obj\Debug\net6.0\Backpack.AssemblyInfo.cs
+D:\RiderSolution\Backpack\Backpack\obj\Debug\net6.0\Backpack.csproj.CoreCompileInputs.cache
+D:\RiderSolution\Backpack\Backpack\obj\Debug\net6.0\Backpack.dll
+D:\RiderSolution\Backpack\Backpack\obj\Debug\net6.0\ref\Backpack.dll
+D:\RiderSolution\Backpack\Backpack\obj\Debug\net6.0\Backpack.pdb
+D:\RiderSolution\Backpack\Backpack\obj\Debug\net6.0\Backpack.genruntimeconfig.cache
